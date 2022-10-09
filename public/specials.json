@@ -1,0 +1,56 @@
+[
+    {
+        "id": "a",
+        "name": "Faucibus laoreet",
+        "price": 5.00,
+        "img": "https://plus.unsplash.com/premium_photo-1663846768488-f82c033ec147?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8ZGlzaHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": "b",
+        "name": "Mauris ut mauris",
+        "price": 10.00,
+        "img": "https://images.unsplash.com/photo-1602253057119-44d745d9b860?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8ZGlzaHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": "c",
+        "name": "Tames pede elit",
+        "price": 12.00,
+        "img": "https://images.unsplash.com/photo-1598532213919-078e54dd1f40?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8ZGlzaHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": "d",
+        "name": "Xare tuma nutas",
+        "price": 8.00,
+        "img": "https://images.unsplash.com/photo-1514326640560-7d063ef2aed5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8ZGlzaHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": "e",
+        "name": "Kase rase tuma",
+        "price": 25.00,
+        "img": "https://images.unsplash.com/photo-1602881917445-0b1ba001addf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fGRpc2h8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": "f",
+        "name": "Poza sema tuka",
+        "price": 18.00,
+        "img": "https://images.unsplash.com/photo-1544856890-7fdbecf97726?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fGRpc2h8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": "g",
+        "name": "Tuka suma lotun",
+        "price": 50.00,
+        "img": "https://images.unsplash.com/photo-1580476262798-bddd9f4b7369?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjl8fGRpc2h8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": "h",
+        "name": "Poza sema tuka",
+        "price": 18.00,
+        "img": "https://images.unsplash.com/photo-1544856890-7fdbecf97726?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fGRpc2h8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": "i",
+        "name": "Tuka suma lotun",
+        "price": 50.00,
+        "img": "https://images.unsplash.com/photo-1580476262798-bddd9f4b7369?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjl8fGRpc2h8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
+    }
+]
